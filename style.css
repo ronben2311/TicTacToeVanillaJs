@@ -1,0 +1,29 @@
+#mainGrid {
+    
+    
+}
+
+#boardSizeDiv {
+    margin-bottom: 0.5% ;
+    background-color: bisque;
+}
+
+.square {
+    display: inline-block; 
+    width: 3vw;
+    height: 3vw;
+    border: cornflowerblue 1px solid;
+    text-align: center;
+}
+
+.square h1{
+    margin:0;
+}
+
+.square span{
+    margin:0;
+}
+
+.emptySquare {
+    background-color: burlywood;
+}
