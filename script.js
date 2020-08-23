@@ -1,9 +1,5 @@
 document.addEventListener('DOMContentLoaded' , () => {
-
-    var rowArr = [];
-    var columnArr = [];
-    var diagArr = [];
-    var antiDiagArr = [];
+    
     var gridArr = []; 
     var playerX = true;
 
